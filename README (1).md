@@ -61,7 +61,3 @@ Everything is fetched automatically from:
 | K — Continental | 40–50 | |
 | K — Friendly | 20 | Slowest change |
 | Form window | 5 matches | Rolling ELO delta sum |
-
-## Next step
-Run `03_train_model.py` (coming next) — trains a classifier on
-`matches_with_elo.csv` and outputs win probabilities for all 2026 fixtures.
